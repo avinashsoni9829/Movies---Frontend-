@@ -1,0 +1,435 @@
+[
+    {
+        "mid": 2,
+        "mname": "kgf2",
+        "mimage": "movie.jpg",
+        "mdescription": "movie by sandalwood",
+        "release_date": null,
+        "generes": [],
+        "cast": []
+    },
+    {
+        "mid": 3,
+        "mname": null,
+        "mimage": null,
+        "mdescription": null,
+        "release_date": null,
+        "generes": [],
+        "cast": []
+    },
+    {
+        "mid": 4,
+        "mname": null,
+        "mimage": null,
+        "mdescription": null,
+        "release_date": null,
+        "generes": [],
+        "cast": []
+    },
+    {
+        "mid": 5,
+        "mname": null,
+        "mimage": null,
+        "mdescription": null,
+        "release_date": null,
+        "generes": [],
+        "cast": []
+    },
+    {
+        "mid": 6,
+        "mname": null,
+        "mimage": null,
+        "mdescription": null,
+        "release_date": null,
+        "generes": [],
+        "cast": []
+    },
+    {
+        "mid": 7,
+        "mname": null,
+        "mimage": null,
+        "mdescription": null,
+        "release_date": null,
+        "generes": [],
+        "cast": []
+    },
+    {
+        "mid": 8,
+        "mname": "Shabaash Mithu",
+        "mimage": "https://assetscdn1.paytm.com/images/cinema/Shabaash-Mithu-a83c0420-a8e7-11ec-a762-2f2514e46a54.jpg",
+        "mdescription": "A biopic based on Indian women's cricket captain, Mithali Raj.",
+        "release_date": "2022-07-14T18:30:00.000+00:00",
+        "generes": [],
+        "cast": []
+    },
+    {
+        "mid": 9,
+        "mname": "Shamshera",
+        "mimage": "https://assetscdn1.paytm.com/images/cinema/MovieIcons/shamshera-gallery.jpg",
+        "mdescription": "Featuring the duo of Ranbir Kapoor and Sanjay Dutt pitted against each other, Shamshera is a high-octane action spectacle. Set in the heartland of India, Shamshera chronicles the story of a fearless dacoit and his ultimate faceoff with a merciless villain",
+        "release_date": "2022-07-22T00:00:00.000+00:00",
+        "generes": [],
+        "cast": []
+    },
+    {
+        "mid": 10,
+        "mname": "Vikrant Rona",
+        "mimage": "https://assetscdn1.paytm.com/images/cinema/Vikrant-Rona1--fd2be8c0-db2c-11ec-a298-e50df7f56a2b.jpg",
+        "mdescription": "Almost half a century ago, a remote village in the middle of a tropical rainforest starts witnessing a series of unexplainable events which they attribute to the supernatural. This coincides with the arrival of an eccentric police officer, Vikrant Rona. A",
+        "release_date": "2022-07-28T00:00:00.000+00:00",
+        "generes": [],
+        "cast": []
+    },
+    {
+        "mid": 11,
+        "mname": "Vikrant Rona",
+        "mimage": "https://assetscdn1.paytm.com/images/cinema/Vikrant-Rona1--fd2be8c0-db2c-11ec-a298-e50df7f56a2b.jpg",
+        "mdescription": "Almost half a century ago, a remote village in the middle of a tropical rainforest starts witnessing a series of unexplainable events which they attribute to the supernatural. This coincides with the arrival of an eccentric police officer, Vikrant Rona. A",
+        "release_date": "2022-07-28T00:00:00.000+00:00",
+        "generes": [],
+        "cast": []
+    },
+    {
+        "mid": 12,
+        "mname": "Durga",
+        "mimage": "https://assetscdn1.paytm.com/images/cinema/durgaa-040c79e0-8cf7-11ec-8efd-6d205f33f529.jpg",
+        "mdescription": "Durga is an upcoming Tamil comedy-drama directed by the stunt master duo Anbariv. The cast of Durga includes Raghava Lawrence.",
+        "release_date": "2022-08-11T00:00:00.000+00:00",
+        "generes": [],
+        "cast": []
+    },
+    {
+        "mid": 13,
+        "mname": "Ponniyin Selvan: Part 1",
+        "mimage": "https://assetscdn1.paytm.com/images/cinema/3-4cd64640-9ad7-11ec-a4f9-db1a494a5d30.jpg",
+        "mdescription": "Ponniyin Selvan is an upcoming Tamil epic historical fiction film directed and co-produced by Mani Ratnam. It is an adaptation of a historical novel by Kalki Krishnamurthy, starring Aishwarya Rai Bachchan, Amitabh Bachchan, Aditi Rao Hydari, Sobhita Dhuli",
+        "release_date": "2022-09-30T00:00:00.000+00:00",
+        "generes": [],
+        "cast": []
+    },
+    {
+        "mid": 14,
+        "mname": "Pippa",
+        "mimage": "https://assetscdn1.paytm.com/images/cinema/pippaa-e3330150-8e3e-11ec-8efd-6d205f33f529.jpg",
+        "mdescription": "Pippa is an upcoming Bollywood drama directed by Raja Krishna Menon. It will feature Ishaan Khatter, Mrunal Thakur, Priyanshu Painyuli and Soni Razdan in the lead roles.",
+        "release_date": "2022-12-09T00:00:00.000+00:00",
+        "generes": [],
+        "cast": []
+    },
+    {
+        "mid": 15,
+        "mname": "Avatar: The way of Water",
+        "mimage": "https://assetscdn1.paytm.com/images/cinema/Avatar1-11a47530-ca14-11ec-a30b-31bb14171a01.jpg",
+        "mdescription": "Avatar: The way of Water is the second film in the Avatar series directed by James Cameron. Jake Sully and Ney'tiri have formed a family and are doing everything to stay together. However, they must leave their home and explore the regions of Pandora. Whe",
+        "release_date": "2022-12-16T00:00:00.000+00:00",
+        "generes": [],
+        "cast": []
+    },
+    {
+        "mid": 16,
+        "mname": null,
+        "mimage": null,
+        "mdescription": null,
+        "release_date": null,
+        "generes": [],
+        "cast": []
+    },
+    {
+        "mid": 17,
+        "mname": "test",
+        "mimage": "https://assetscdn1.paytm.com/images/cinema/Avatar1-11a47530-ca14-11ec-a30b-31bb14171a01.jpg",
+        "mdescription": "this is a test movie",
+        "release_date": "2022-12-16T00:00:00.000+00:00",
+        "generes": [
+            {
+                "gid": 3,
+                "gname": "Romantic",
+                "movies": []
+            },
+            {
+                "gid": 20,
+                "gname": "tdesst",
+                "movies": [
+                    {
+                        "mid": 8,
+                        "mname": "Shabaash Mithu",
+                        "mimage": "https://assetscdn1.paytm.com/images/cinema/Shabaash-Mithu-a83c0420-a8e7-11ec-a762-2f2514e46a54.jpg",
+                        "mdescription": "A biopic based on Indian women's cricket captain, Mithali Raj.",
+                        "release_date": "2022-07-14T18:30:00.000+00:00",
+                        "generes": [],
+                        "cast": []
+                    }
+                ]
+            },
+            {
+                "gid": 1,
+                "gname": "Comedy",
+                "movies": []
+            }
+        ],
+        "cast": [
+            {
+                "sid": 18,
+                "sname": null,
+                "simage": null,
+                "films": []
+            },
+            {
+                "sid": 15,
+                "sname": null,
+                "simage": null,
+                "films": []
+            },
+            {
+                "sid": 20,
+                "sname": null,
+                "simage": null,
+                "films": []
+            }
+        ]
+    },
+    {
+        "mid": 18,
+        "mname": "test",
+        "mimage": "https://assetscdn1.paytm.com/images/cinema/Avatar1-11a47530-ca14-11ec-a30b-31bb14171a01.jpg",
+        "mdescription": "this is a test2 movie",
+        "release_date": "2022-12-16T00:00:00.000+00:00",
+        "generes": [
+            {
+                "gid": 3,
+                "gname": "Romantic",
+                "movies": []
+            },
+            {
+                "gid": 20,
+                "gname": "tdesst",
+                "movies": [
+                    {
+                        "mid": 8,
+                        "mname": "Shabaash Mithu",
+                        "mimage": "https://assetscdn1.paytm.com/images/cinema/Shabaash-Mithu-a83c0420-a8e7-11ec-a762-2f2514e46a54.jpg",
+                        "mdescription": "A biopic based on Indian women's cricket captain, Mithali Raj.",
+                        "release_date": "2022-07-14T18:30:00.000+00:00",
+                        "generes": [],
+                        "cast": []
+                    }
+                ]
+            },
+            {
+                "gid": 1,
+                "gname": "Comedy",
+                "movies": []
+            }
+        ],
+        "cast": [
+            {
+                "sid": 18,
+                "sname": null,
+                "simage": null,
+                "films": []
+            },
+            {
+                "sid": 15,
+                "sname": null,
+                "simage": null,
+                "films": []
+            },
+            {
+                "sid": 20,
+                "sname": null,
+                "simage": null,
+                "films": []
+            }
+        ]
+    },
+    {
+        "mid": 19,
+        "mname": "test",
+        "mimage": "https://assetscdn1.paytm.com/images/cinema/Avatar1-11a47530-ca14-11ec-a30b-31bb14171a01.jpg",
+        "mdescription": "this is a test2 movie",
+        "release_date": "2022-12-16T00:00:00.000+00:00",
+        "generes": [],
+        "cast": [
+            {
+                "sid": 18,
+                "sname": null,
+                "simage": null,
+                "films": []
+            },
+            {
+                "sid": 15,
+                "sname": null,
+                "simage": null,
+                "films": []
+            },
+            {
+                "sid": 20,
+                "sname": null,
+                "simage": null,
+                "films": []
+            }
+        ]
+    },
+    {
+        "mid": 20,
+        "mname": "test",
+        "mimage": "https://assetscdn1.paytm.com/images/cinema/Avatar1-11a47530-ca14-11ec-a30b-31bb14171a01.jpg",
+        "mdescription": "this is a test2 movie",
+        "release_date": "2022-12-16T00:00:00.000+00:00",
+        "generes": [
+            {
+                "gid": 3,
+                "gname": "Romantic",
+                "movies": []
+            },
+            {
+                "gid": 20,
+                "gname": "tdesst",
+                "movies": [
+                    {
+                        "mid": 8,
+                        "mname": "Shabaash Mithu",
+                        "mimage": "https://assetscdn1.paytm.com/images/cinema/Shabaash-Mithu-a83c0420-a8e7-11ec-a762-2f2514e46a54.jpg",
+                        "mdescription": "A biopic based on Indian women's cricket captain, Mithali Raj.",
+                        "release_date": "2022-07-14T18:30:00.000+00:00",
+                        "generes": [],
+                        "cast": []
+                    }
+                ]
+            },
+            {
+                "gid": 1,
+                "gname": "Comedy",
+                "movies": []
+            }
+        ],
+        "cast": [
+            {
+                "sid": 18,
+                "sname": null,
+                "simage": null,
+                "films": []
+            },
+            {
+                "sid": 15,
+                "sname": null,
+                "simage": null,
+                "films": []
+            },
+            {
+                "sid": 20,
+                "sname": null,
+                "simage": null,
+                "films": []
+            }
+        ]
+    },
+    {
+        "mid": 21,
+        "mname": "test",
+        "mimage": "https://assetscdn1.paytm.com/images/cinema/Avatar1-11a47530-ca14-11ec-a30b-31bb14171a01.jpg",
+        "mdescription": "this is a test2 movie",
+        "release_date": "2022-12-16T00:00:00.000+00:00",
+        "generes": [
+            {
+                "gid": 3,
+                "gname": "Romantic",
+                "movies": []
+            },
+            {
+                "gid": 20,
+                "gname": "tdesst",
+                "movies": [
+                    {
+                        "mid": 8,
+                        "mname": "Shabaash Mithu",
+                        "mimage": "https://assetscdn1.paytm.com/images/cinema/Shabaash-Mithu-a83c0420-a8e7-11ec-a762-2f2514e46a54.jpg",
+                        "mdescription": "A biopic based on Indian women's cricket captain, Mithali Raj.",
+                        "release_date": "2022-07-14T18:30:00.000+00:00",
+                        "generes": [],
+                        "cast": []
+                    }
+                ]
+            },
+            {
+                "gid": 1,
+                "gname": "Comedy",
+                "movies": []
+            }
+        ],
+        "cast": [
+            {
+                "sid": 18,
+                "sname": null,
+                "simage": null,
+                "films": []
+            },
+            {
+                "sid": 15,
+                "sname": null,
+                "simage": null,
+                "films": []
+            },
+            {
+                "sid": 20,
+                "sname": null,
+                "simage": null,
+                "films": []
+            }
+        ]
+    },
+    {
+        "mid": 22,
+        "mname": "test",
+        "mimage": "https://assetscdn1.paytm.com/images/cinema/Avatar1-11a47530-ca14-11ec-a30b-31bb14171a01.jpg",
+        "mdescription": "this is a test2 movie",
+        "release_date": "2022-12-16T00:00:00.000+00:00",
+        "generes": [
+            {
+                "gid": 3,
+                "gname": "Romantic",
+                "movies": []
+            },
+            {
+                "gid": 20,
+                "gname": "tdesst",
+                "movies": [
+                    {
+                        "mid": 8,
+                        "mname": "Shabaash Mithu",
+                        "mimage": "https://assetscdn1.paytm.com/images/cinema/Shabaash-Mithu-a83c0420-a8e7-11ec-a762-2f2514e46a54.jpg",
+                        "mdescription": "A biopic based on Indian women's cricket captain, Mithali Raj.",
+                        "release_date": "2022-07-14T18:30:00.000+00:00",
+                        "generes": [],
+                        "cast": []
+                    }
+                ]
+            },
+            {
+                "gid": 1,
+                "gname": "Comedy",
+                "movies": []
+            }
+        ],
+        "cast": [
+            {
+                "sid": 18,
+                "sname": null,
+                "simage": null,
+                "films": []
+            },
+            {
+                "sid": 15,
+                "sname": null,
+                "simage": null,
+                "films": []
+            },
+            {
+                "sid": 20,
+                "sname": null,
+                "simage": null,
+                "films": []
+            }
+        ]
+    }
+]

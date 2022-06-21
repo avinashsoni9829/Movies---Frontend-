@@ -1,0 +1,122 @@
+[
+    {
+        "gid": 1,
+        "gname": "Comedy",
+        "movies": []
+    },
+    {
+        "gid": 3,
+        "gname": "Romantic",
+        "movies": []
+    },
+    {
+        "gid": 4,
+        "gname": "Action",
+        "movies": [
+            {
+                "mid": 6,
+                "mname": null,
+                "mimage": null,
+                "mdescription": null,
+                "release_date": null,
+                "generes": [],
+                "cast": []
+            }
+        ]
+    },
+    {
+        "gid": 6,
+        "gname": "Adventure",
+        "movies": []
+    },
+    {
+        "gid": 7,
+        "gname": "Drama",
+        "movies": []
+    },
+    {
+        "gid": 8,
+        "gname": "Social",
+        "movies": []
+    },
+    {
+        "gid": 9,
+        "gname": "Thriller",
+        "movies": []
+    },
+    {
+        "gid": 10,
+        "gname": "Mystery",
+        "movies": []
+    },
+    {
+        "gid": 11,
+        "gname": "Horror",
+        "movies": []
+    },
+    {
+        "gid": 12,
+        "gname": "Biography",
+        "movies": []
+    },
+    {
+        "gid": 13,
+        "gname": "Sport",
+        "movies": []
+    },
+    {
+        "gid": 14,
+        "gname": "Sports",
+        "movies": []
+    },
+    {
+        "gid": 15,
+        "gname": "test",
+        "movies": []
+    },
+    {
+        "gid": 16,
+        "gname": "tesst",
+        "movies": [
+            {
+                "mid": 16,
+                "mname": null,
+                "mimage": null,
+                "mdescription": null,
+                "release_date": null,
+                "generes": [],
+                "cast": []
+            }
+        ]
+    },
+    {
+        "gid": 20,
+        "gname": "tdesst",
+        "movies": [
+            {
+                "mid": 8,
+                "mname": "Shabaash Mithu",
+                "mimage": "https://assetscdn1.paytm.com/images/cinema/Shabaash-Mithu-a83c0420-a8e7-11ec-a762-2f2514e46a54.jpg",
+                "mdescription": "A biopic based on Indian women's cricket captain, Mithali Raj.",
+                "release_date": "2022-07-14T18:30:00.000+00:00",
+                "generes": [],
+                "cast": []
+            }
+        ]
+    },
+    {
+        "gid": 22,
+        "gname": "tdeddsst",
+        "movies": [
+            {
+                "mid": 8,
+                "mname": "Shabaash Mithu",
+                "mimage": "https://assetscdn1.paytm.com/images/cinema/Shabaash-Mithu-a83c0420-a8e7-11ec-a762-2f2514e46a54.jpg",
+                "mdescription": "A biopic based on Indian women's cricket captain, Mithali Raj.",
+                "release_date": "2022-07-14T18:30:00.000+00:00",
+                "generes": [],
+                "cast": []
+            }
+        ]
+    }
+]

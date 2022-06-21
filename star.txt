@@ -1,0 +1,132 @@
+[
+    {
+        "sid": 1,
+        "sname": "Shahrukh Khan",
+        "simage": "smg.png",
+        "films": []
+    },
+    {
+        "sid": 3,
+        "sname": "Salman Aki Khan",
+        "simage": "smg.png",
+        "films": []
+    },
+    {
+        "sid": 4,
+        "sname": null,
+        "simage": null,
+        "films": []
+    },
+    {
+        "sid": 5,
+        "sname": null,
+        "simage": null,
+        "films": []
+    },
+    {
+        "sid": 6,
+        "sname": null,
+        "simage": null,
+        "films": []
+    },
+    {
+        "sid": 7,
+        "sname": null,
+        "simage": null,
+        "films": []
+    },
+    {
+        "sid": 8,
+        "sname": null,
+        "simage": null,
+        "films": []
+    },
+    {
+        "sid": 9,
+        "sname": null,
+        "simage": null,
+        "films": []
+    },
+    {
+        "sid": 10,
+        "sname": null,
+        "simage": null,
+        "films": []
+    },
+    {
+        "sid": 11,
+        "sname": null,
+        "simage": null,
+        "films": []
+    },
+    {
+        "sid": 12,
+        "sname": "Ranbir Kapoor",
+        "simage": "https://assetscdn1.paytm.com/images/cinema/Crew/Ranbir-Kapoor.jpg",
+        "films": []
+    },
+    {
+        "sid": 13,
+        "sname": "Tapsee Pannu",
+        "simage": "https://assetscdn1.paytm.com/images/cinema/Stills/Judwaa-2/Judwaa-2/taapsee-pannu.jpg",
+        "films": []
+    },
+    {
+        "sid": 14,
+        "sname": "Sanjay Dutt",
+        "simage": "https://assetscdn1.paytm.com/images/cinema/Sanjay-Dutt-425c2339-a802-494f-871b-1873c90d50b3.jpg",
+        "films": []
+    },
+    {
+        "sid": 15,
+        "sname": null,
+        "simage": null,
+        "films": []
+    },
+    {
+        "sid": 16,
+        "sname": "Raghavendra Lawrence",
+        "simage": "https://assetscdn1.paytm.com/images/cinema/Raghavendra-Lawrence-111fe298-4447-4828-b529-098d75930269.jpg",
+        "films": []
+    },
+    {
+        "sid": 17,
+        "sname": "Aishwarya Rai Bachchan",
+        "simage": "https://assetscdn1.paytm.com/images/cinema/MovieIcons/Aishwarya-Rai-cast.jpg",
+        "films": []
+    },
+    {
+        "sid": 18,
+        "sname": null,
+        "simage": null,
+        "films": []
+    },
+    {
+        "sid": 19,
+        "sname": "Ronit Roy",
+        "simage": "https://assetscdn1.paytm.com/images/cinema/Content/15-sep-17/Lucknow_Central/ronit-roy.jpg",
+        "films": []
+    },
+    {
+        "sid": 20,
+        "sname": null,
+        "simage": null,
+        "films": []
+    },
+    {
+        "sid": 21,
+        "sname": "Kareena Kapoor Khan",
+        "simage": "https://assetscdn1.paytm.com/images/cinema/MovieIcons/Cast/Kareena-Kapoor-Khan.jpg",
+        "films": [
+            {
+                "mid": 15,
+                "mname": "Avatar: The way of Water",
+                "mimage": "https://assetscdn1.paytm.com/images/cinema/Avatar1-11a47530-ca14-11ec-a30b-31bb14171a01.jpg",
+                "mdescription": "Avatar: The way of Water is the second film in the Avatar series directed by James Cameron. Jake Sully and Ney'tiri have formed a family and are doing everything to stay together. However, they must leave their home and explore the regions of Pandora. Whe",
+                "release_date": "2022-12-16T00:00:00.000+00:00",
+                "generes": [],
+                "cast": []
+            }
+        ]
+    }
+]
